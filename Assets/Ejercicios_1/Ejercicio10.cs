@@ -5,6 +5,9 @@ using UnityEngine;
 //hartontw
 namespace Ejercicios_1
 {
+    ///<summary>
+    /// Crear un script que cambie el nombre de todos los GameObjects de la escena en base a un atributo definido en este
+    /// </summary>    
     public class Ejercicio10 : MonoBehaviour
     {
         string renombrar = "Me llamo objeto";

@@ -4,6 +4,9 @@ using UnityEngine;
 
 namespace Ejercicios_1
 {
+    ///<summary>
+    /// Crear un script que genere tres esferas al inicio separadas 100 metros
+    ///</summary>    
     public class Ejercicio07 : MonoBehaviour
     {
         int cantidadEsferas = 3;
